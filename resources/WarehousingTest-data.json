@@ -1,0 +1,140 @@
+{
+  "routes" : [ {
+    "location" : "Brockton, MA",
+    "store" : "Malden, MA",
+    "shippingCost" : 42.94
+  }, {
+    "location" : "Brockton, MA",
+    "store" : "Medford, MA",
+    "shippingCost" : 41.43
+  }, {
+    "location" : "Brockton, MA",
+    "store" : "Quincy, MA",
+    "shippingCost" : 18.61
+  }, {
+    "location" : "Brockton, MA",
+    "store" : "Brockton, MA",
+    "shippingCost" : 0.0
+  }, {
+    "location" : "Brockton, MA",
+    "store" : "Bristol, CT",
+    "shippingCost" : 186.05
+  }, {
+    "location" : "Brockton, MA",
+    "store" : "Manchester, CT",
+    "shippingCost" : 144.12
+  }, {
+    "location" : "Brockton, MA",
+    "store" : "Milford, CT",
+    "shippingCost" : 217.46
+  }, {
+    "location" : "Brockton, MA",
+    "store" : "New Haven, CT",
+    "shippingCost" : 201.55
+  }, {
+    "location" : "Brockton, MA",
+    "store" : "Stamford, CT",
+    "shippingCost" : 267.37
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "Malden, MA",
+    "shippingCost" : 197.68
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "Medford, MA",
+    "shippingCost" : 191.09
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "Quincy, MA",
+    "shippingCost" : 191.12
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "Brockton, MA",
+    "shippingCost" : 186.05
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "Bristol, CT",
+    "shippingCost" : 0.0
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "Manchester, CT",
+    "shippingCost" : 41.96
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "Milford, CT",
+    "shippingCost" : 56.67
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "New Haven, CT",
+    "shippingCost" : 44.54
+  }, {
+    "location" : "Bristol, CT",
+    "store" : "Stamford, CT",
+    "shippingCost" : 94.66
+  } ],
+  "stores" : [ {
+    "storeId" : "Malden, MA"
+  }, {
+    "storeId" : "Medford, MA"
+  }, {
+    "storeId" : "Quincy, MA"
+  }, {
+    "storeId" : "Brockton, MA"
+  }, {
+    "storeId" : "Bristol, CT"
+  }, {
+    "storeId" : "Manchester, CT"
+  }, {
+    "storeId" : "Milford, CT"
+  }, {
+    "storeId" : "New Haven, CT"
+  }, {
+    "storeId" : "Stamford, CT"
+  } ],
+  "warehouses" : [ {
+    "location" : "Brockton, MA",
+    "fixedCost" : 550000.0,
+    "capacityCost" : 148.0
+  }, {
+    "location" : "Bristol, CT",
+    "fixedCost" : 600000.0,
+    "capacityCost" : 148.0
+  } ],
+  "mapCoordinates" : [ {
+    "location" : "Malden, MA",
+    "lon" : -71.06,
+    "lat" : 42.42
+  }, {
+    "location" : "Medford, MA",
+    "lon" : -71.10,
+    "lat" : 42.41
+  }, {
+    "location" : "Quincy, MA",
+    "lon" : -71.00,
+    "lat" : 42.25
+  }, {
+    "location" : "Brockton, MA",
+    "lon" : -71.01,
+    "lat" : 42.08
+  }, {
+    "location" : "Bristol, CT",
+    "lon" : -72.94,
+    "lat" : 41.67
+  }, {
+    "location" : "Manchester, CT",
+    "lon" : -72.52,
+    "lat" : 41.77
+  }, {
+    "location" : "Milford, CT",
+    "lon" : -73.05,
+    "lat" : 41.22
+  }, {
+    "location" : "New Haven, CT",
+    "lon" : -72.92,
+    "lat" : 41.30
+  }, {
+    "location" : "Stamford, CT",
+    "lon" : -73.53,
+    "lat" : 41.05
+  } ]
+}

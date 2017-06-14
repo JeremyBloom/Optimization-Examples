@@ -1,0 +1,44 @@
+{
+  "demands" : [ {
+    "store" : "Malden, MA",
+    "scenarioId" : "0",
+    "amount" : 104.0
+  }, {
+    "store" : "Medford, MA",
+    "scenarioId" : "0",
+    "amount" : 50.0
+  }, {
+    "store" : "Quincy, MA",
+    "scenarioId" : "0",
+    "amount" : 25.0
+  }, {
+    "store" : "Brockton, MA",
+    "scenarioId" : "0",
+    "amount" : 28.0
+  }, {
+    "store" : "Bristol, CT",
+    "scenarioId" : "0",
+    "amount" : 28.0
+  }, {
+    "store" : "Manchester, CT",
+    "scenarioId" : "0",
+    "amount" : 80.0
+  }, {
+    "store" : "Milford, CT",
+    "scenarioId" : "0",
+    "amount" : 103.0
+  }, {
+    "store" : "New Haven, CT",
+    "scenarioId" : "0",
+    "amount" : 80.0
+  }, {
+    "store" : "Stamford, CT",
+    "scenarioId" : "0",
+    "amount" : 73.0
+  }  ],
+  "scenarios" : [ {
+    "id" : "0",
+    "totalDemand" : 571.0,
+    "periods" : 1
+    } ]
+}
